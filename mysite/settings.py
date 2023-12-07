@@ -82,9 +82,9 @@ WSGI_APPLICATION = 'mysite.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': os.getenv("PGDATABASE"),
+        'NAME': "railway",
         'USER': 'postgres',
-        'PASSWORD': 'Pashkalol2003.',
+        'PASSWORD': 'D16Ce6g1F-A24FeE5FC61b3BD*AE2Eda',
         'HOST': 'viaduct.proxy.rlwy.net',
         'PORT': '31473',
     }
