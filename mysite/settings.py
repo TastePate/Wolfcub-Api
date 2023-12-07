@@ -85,7 +85,7 @@ DATABASES = {
         'NAME': os.getenv("PGDATABASE"),
         'USER': 'postgres',
         'PASSWORD': 'Pashkalol2003.',
-        'HOST': 'localhost',
+        'HOST': 'django-server-production-1a30.up.railway.app',
         'PORT': '5432',
     }
 }
